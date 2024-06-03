@@ -34,3 +34,8 @@ Among the total number of riders in March 2024, membership riders took the great
 ![Map_Dashboard](https://github.com/kgregart/citibike_tableau/blob/main/Images/Map_Dashboard.png)
 
 Comparing the top ending and starting stations there are more people coming into the city. Though not the same, the popularity of location between start and end stations areas are similar as they are both generally below the Midtown Manhattan region.  Overall, the data observed points to a couple target audiences who mainly utilize the Citi Bike program.  The first audience are the people living in the New York area using electric bikes to commute into the city for work. The second group also prefers the electric bike; however, these New Yorker's are taking advantage of the program during the day on Sundays to go into the city. Observing more data over a longer period of time would provide a statistically conclusive result.
+
+# Tableau
+
+(https://public.tableau.com/app/profile/kelly.gregart/viz/Citibike_17146690308200/Story)
+
