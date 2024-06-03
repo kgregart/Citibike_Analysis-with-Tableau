@@ -20,3 +20,24 @@ The map should also be accompanied by a write-up describing any trends that were
 - Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 
 # Results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Citi Bike offers the nation’s largest bike share program across Manhattan, Brooklyn, Queens, the Bronx, Jersey City and Hoboken providing membership and non-membership options while catering to longtime locals or people just visiting the town. Citi Bikes supplies riders with the choice between a classic bike or electric bike which can be unlocked from one station and returned to any other station, giving convenience to any type of rider. 
+
+
+Among the total number of riders in March 2024, membership riders took the greatest share at 95.4%, indicating local riders are the main users of the program. The data further suggests local riders are utilizing the program to commute to and from work during the week, as the peak hour usage is 7am - 8am and 5pm - 6pm Monday through Friday. There is a substantial amount of member ridership on Sunday as well, falling into the second highest ridership day with Friday being the most popular.
+
+
+Comparing the top ending and starting stations there are more people coming into the city. Though not the same, the popularity of location between start and end stations areas are similar as they are both generally below the Midtown Manhattan region.  Overall, the data observed points to a couple target audiences who mainly utilize the Citi Bike program.  The first audience are the people living in the New York area using electric bikes to commute into the city for work. The second group also prefers the electric bike; however, these New Yorker's are taking advantage of the program during the day on Sundays to go into the city. Observing more data over a longer period of time would provide a statistically conclusive result.
