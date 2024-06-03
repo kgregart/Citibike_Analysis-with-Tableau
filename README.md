@@ -37,5 +37,5 @@ Comparing the top ending and starting stations there are more people coming into
 
 # Tableau
 
-(https://public.tableau.com/app/profile/kelly.gregart/viz/Citibike_17146690308200/Story)
+https://public.tableau.com/app/profile/kelly.gregart/viz/Citibike_17146690308200/Story
 
