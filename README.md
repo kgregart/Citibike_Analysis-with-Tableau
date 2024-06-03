@@ -24,18 +24,7 @@ The map should also be accompanied by a write-up describing any trends that were
 
 # Results
 
-
-
-
-
-
-
-
-
-
-
-
-
+![KPI_Dashboard](https://github.com/kgregart/citibike_tableau/blob/main/Images/KPI_Dashboard.png)
 
 Citi Bike offers the nation’s largest bike share program across Manhattan, Brooklyn, Queens, the Bronx, Jersey City and Hoboken providing membership and non-membership options while catering to longtime locals or people just visiting the town. Citi Bikes supplies riders with the choice between a classic bike or electric bike which can be unlocked from one station and returned to any other station, giving convenience to any type of rider. 
 
